@@ -18,3 +18,6 @@ Siga a ordem dos arquivos
 3- o_r_como_calculadora
 
 4- seguindo com a exploração (http://rpubs.com/juhipolito/pt2)
+
+
+*Para explorar mais:http://www.botanicaamazonica.wiki.br/labotam/doku.php?id=disciplinas:bot89:inicio
