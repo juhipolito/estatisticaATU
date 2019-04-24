@@ -13,6 +13,8 @@ Siga a ordem dos arquivos
 *Nas linhas de comandos do R haverá um sinal de >, que indica o prompt, representando que o R está pronto para receber comandos. Se uma linha de comando não está completa, aparecerá um sinal de +, indicando que você poderá continuar a digitar aquela linha. Para que o prompt apareça novamente, pressione Esc. Para que os comandos sejam executados, pressione Enter. Para criar objetos, podemos utilizar os símbolos -> ou = . Estes símbolos representam que queremos “guardar” a informação dentro do objeto.
 
 
-2- Primeiros passos (http://rpubs.com/juhipolito/489775)
+2- Primeiros passos (http://rpubs.com/juhipolito/pt1)
 
 3- o_r_como_calculadora
+
+4- seguindo com a exploração (http://rpubs.com/juhipolito/pt2)
