@@ -20,4 +20,6 @@ Siga a ordem dos arquivos
 4- seguindo com a exploração (http://rpubs.com/juhipolito/pt2)
 
 
-*Para explorar mais:http://www.botanicaamazonica.wiki.br/labotam/doku.php?id=disciplinas:bot89:inicio
+*Para explorar mais:
+http://www.botanicaamazonica.wiki.br/labotam/doku.php?id=disciplinas:bot8990:inicio
+http://www.botanicaamazonica.wiki.br/labotam/doku.php?id=disciplinas:bot89:inicio
